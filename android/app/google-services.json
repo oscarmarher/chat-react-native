@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167742086272",
+    "firebase_url": "https://chat-employee-a4a89-default-rtdb.firebaseio.com",
+    "project_id": "chat-employee-a4a89",
+    "storage_bucket": "chat-employee-a4a89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167742086272:android:1e55b9bc43fdf049d4da65",
+        "android_client_info": {
+          "package_name": "com.chatempleados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167742086272-ne9igdhkbl7sbfkrlnmmup33gti0p1o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRpOSfYVsZCtRQtsejX0kC8VAbVPK7Xdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167742086272-ne9igdhkbl7sbfkrlnmmup33gti0p1o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
